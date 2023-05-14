@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nohyp3
+- 👋 Hi, I’m andre!
 - 👀 I’m interested in web development and graphic design
 - 🌱 I’m currently learning intermediate front end development and graphic design
 - 💞️ I’m looking to collaborate on any projects where my skills can be used 
